@@ -1,10 +1,8 @@
 [INCLUDE=presentation]
-Title         : プレゼンのサンプル
-Sub Title     : HTML と TEX の知識が両方使える
+Title         : 9月26日昼会
+Sub Title     : multi-players
 Author        : 安部　航
-Affiliation   : 路上のプレアデス
-Email         : b_bluejean3@ab.cyberhome.ne.jp
-Reveal Theme  : blood
+Reveal Theme  : moon
 Beamer Theme  : annarbor
 
 [TITLE]
@@ -13,23 +11,24 @@ Beamer Theme  : annarbor
 
 [TOC]
 
+~ Begin Vertical
+  
 # Self Introduction
 
 ~ {margin-bottom: 5rem}
-* 名前: 安部　航
+* 名前: 安部 航 サンシャイン
+* 生年月日:1989年4月24日
+* 出身地:神奈川県横浜市
 * 趣味: パワーリフティング、自転車ロードレース、等
 ~
 
-~ Begin Framed
-  `*`と半角スペースで箇条書きができる。
-  
-  `~ Begin Framed`と`~ End Framed`で文章を挟むことによってこのようなブロックが作れる。
-~ End Framed
+# aratamete
+~ End Vertical
 
 ~ Begin Vertical
 <!-- {data-background:blue} -->
 
-# パワーリフティングについて {#vertical}
+# マルチプレイヤー列伝 {#vertical}
 
 ~
 * 66kg級\
